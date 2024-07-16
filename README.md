@@ -52,6 +52,7 @@ Please read the [contributions](#contribute) section before opening a pull req
  - [Blog: http2 Fingerprinting](https://www.trickster.dev/post/understanding-http2-fingerprinting/)
  - [One Million Site Tracking Measurements](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
  - [DeepFPD: Browser Fingerprinting Detection via Deep Learning](https://ieeexplore.ieee.org/abstract/document/10431413)
+ - [The Devil is in the Details: Detection, Measurement and Lawfulness of Server-Side Tracking on the Web](https://hal.science/hal-04617727v1/document)
  
 ## Fingerprinting Evasion
 
