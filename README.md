@@ -23,6 +23,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [TorZilla](https://github.com/arkenfox/TZP)                     | Fingerprinting Gecko based browsers                            |
 | [TLS Fingerprinting](https://github.com/salesforce/ja3)         | TLS Fingerprinting                                             |
 | [FingerprintJS BotD](https://github.com/fingerprintjs/BotD)     | Bot detection library                                          |
+| [Website Fingerprinting Library](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) | Pytorch-based open-source library for website fingerprinting attacks |
 
 ## Sites
 
