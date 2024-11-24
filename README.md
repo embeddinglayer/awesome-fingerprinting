@@ -71,6 +71,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [TLS Client](https://github.com/bogdanfinn/tls-client)                                     | Built on top of uTLS offers a simpler wrapper with more profiles              | Golang     |
 | [Curl Impersonate](https://github.com/lwthiker/curl-impersonate)                           | TLS Impersonation                                                             | Python     |
 | [Reqwest Impersonate](https://github.com/0x676e67/reqwest-impersonate)                     | TLS Impersonation                                                             | Rust       |
+| [PRIMP](https://github.com/deedy5/primp)                                                   | TLS Impersonation                                                             | Rust       |
 
 ## Other
 - [Brave Anti-Fingerprinting Wiki](https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections)
