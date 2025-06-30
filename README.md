@@ -72,10 +72,12 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [Curl Impersonate](https://github.com/lwthiker/curl-impersonate)                           | TLS Impersonation                                                             | Python     |
 | [Reqwest Impersonate](https://github.com/0x676e67/reqwest-impersonate)                     | TLS Impersonation                                                             | Rust       |
 | [PRIMP](https://github.com/deedy5/primp)                                                   | TLS Impersonation                                                             | Rust       |
+| [CamouFox](https://github.com/daijro/camoufox)                                             | Gecko Based Anti-Detect Browser                                               | C++        |
 
 ## Other
 - [Brave Anti-Fingerprinting Wiki](https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections)
 - [Ungoogled Chromium FP Patches](https://github.com/ungoogled-software/ungoogled-chromium/blob/07e4bdd1da038c7a4423637e6e00ffdbe1695581/patches/extra/bromite/flag-fingerprinting-canvas-image-data-noise.patch#L31)
 - [Fingerprint Guidance](https://w3c.github.io/fingerprinting-guidance/)
+  
 ## Contribute
 Contributions are welcome. Please follow the general format when creating a pull request.
