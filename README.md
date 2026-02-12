@@ -1,5 +1,7 @@
 # awesome-fingerprinting
+
 > **Fingerprinting** is a practice in which websites identify a particular browser (and by extension, a particular user) by collecting and combining distinguishing features of the browser and underlying operating system. - [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Fingerprinting)
+
 ## About
 
 A collection of browser fingerprinting projects, research, and resources. Intended as a way to aggregate research surrounding the subject.
@@ -13,49 +15,75 @@ Please read the [contributions](#contribute) section before opening a pull req
 - [Fingerprinting](#fingerprinting-evasion)
 - [Other](#other)
 - [Contribute](#contribute)
+
 ## Libraries & Projects
 
-| Library                                                         | Description                                                    |
-| --------------------------------------------------------------- | -------------------------------------------------------------- |
-| [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs) | FingerprintJS open source library for fingerprinting browsers. |
-| [CreepJS](https://github.com/abrahamjuliot/creepjs)             | A compilation of browser fingerprinting research.              |
-| [Supercookie](https://github.com/jonasstrehle/supercookie)      | Fingerprinting visitors via favicons                           |
-| [TorZilla](https://github.com/arkenfox/TZP)                     | Fingerprinting Gecko based browsers                            |
-| [TLS Fingerprinting](https://github.com/salesforce/ja3)         | TLS Fingerprinting                                             |
-| [FingerprintJS BotD](https://github.com/fingerprintjs/BotD)     | Bot detection library                                          |
+| Library                                                                                         | Description                                                          |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [FingerprintJS](https://github.com/fingerprintjs/fingerprintjs)                                 | FingerprintJS open source library for fingerprinting browsers.       |
+| [CreepJS](https://github.com/abrahamjuliot/creepjs)                                             | A compilation of browser fingerprinting research.                    |
+| [Supercookie](https://github.com/jonasstrehle/supercookie)                                      | Fingerprinting visitors via favicons                                 |
+| [TorZilla](https://github.com/arkenfox/TZP)                                                     | Fingerprinting Gecko based browsers                                  |
+| [TLS Fingerprinting](https://github.com/salesforce/ja3)                                         | TLS Fingerprinting                                                   |
+| [FingerprintJS BotD](https://github.com/fingerprintjs/BotD)                                     | Bot detection library                                                |
 | [Website Fingerprinting Library](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) | Pytorch-based open-source library for website fingerprinting attacks |
-| [ThumbmarkJS](https://github.com/thumbmarkjs/thumbmarkjs)       | Opensource  alternative to FingerprintJS                       |
+| [ThumbmarkJS](https://github.com/thumbmarkjs/thumbmarkjs)                                       | Opensource alternative to FingerprintJS                              |
 
 ## Sites
 
- - [AmIUnique](https://amiunique.org/)
- - [PixelScan](https://pixelscan.net/)
- - [tls.peet.ws](https://tls.peet.ws/)
- - [DeviceAndBrowserInfo](https://deviceandbrowserinfo.com/)
- - [BrowserLeaks](https://browserleaks.com/)
- - [Chrome Extension Fingerprinting](https://fpmon.github.io/fingerprinting-monitor/)
+- [AmIUnique](https://amiunique.org/)
+- [PixelScan](https://pixelscan.net/)
+- [tls.peet.ws](https://tls.peet.ws/)
+  - [tls.peet.ws (HTTP/3 API)](https://tls3.peet.ws/api/all) - HTTP/3 version of the peet API
+- [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
+- [DeviceAndBrowserInfo](https://deviceandbrowserinfo.com/)
+- [BrowserLeaks](https://browserleaks.com/)
+- [Browserize (privacy check)](https://privacycheck.sec.lrz.de/)
+- [bot-detector](https://bot-detector.rebrowser.net/) - demo of CDP leaks
+- [Cloudflare connection tool (Enterprise only)](https://cfdata.lol/tools/connection/) - shows CF management score (Enterprise only)
+- [Brave Farbling demo](https://dev-pages.bravesoftware.com/fingerprinting/farbling.html)
+- [Chrome Extension Fingerprinting](https://fpmon.github.io/fingerprinting-monitor/)
+- [SneakerDev Discord](https://discord.gg/sneakerdev)
+
 ## Research
 
- - [Blog: Detecting Privacy Badger](https://adtechmadness.wordpress.com/2020/03/27/detecting-privacy-badgers-canvas-fp-detection/) 
- - [Blog: Salesforce TLS Fingerprinting](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/)
- - [Pixel Perfect: Fingerprinting Canvas in HTML5](https://hovav.net/ucsd/dist/canvas.pdf)
- - [Picasso: Lightweight Device Class Fingerprinting](https://dl.acm.org/doi/pdf/10.1145/2994459.2994467)
- - [Fingerprinting Evasive Bots](https://arxiv.org/pdf/2406.07647)
- - [Blog: How anti-fingerprinting extensions tend to make fingerprinting easier](https://palant.info/2020/12/10/how-anti-fingerprinting-extensions-tend-to-make-fingerprinting-easier/)
- - [Blog: Detecting Headless Browsers](https://antoinevastel.com/javascript/2020/02/09/detecting-web-bots.html)
- - [Blog: Detecting Puppeteer through JS Execution](https://antoinevastel.com/javascript/2019/06/10/monitor-js-execution.html)
- - [WebGPU Fingerprinting Attacks](https://arxiv.org/pdf/2401.04349)
- - [Who Touched My Browser Fingerprint](https://yinzhicao.org/fpmeasurement/imc20.pdf)
- - [Quantifying the Fingerprintability of Browser Extensions](https://securitee.org/files/xhound-oakland17.pdf)
- - [Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets](https://www.usenix.org/conference/usenixsecurity21/presentation/laperdrix)
- - [Cookieless Monster](http://consideredharmful.info/papers/Paper%20-%20Hot%20Topics%20in%20Computer%20Security%20-%20Cookieless%20Monster.pdf)
- - [Blog: Browser Finerprinting via CSS](https://fingerprint.com/blog/disabling-javascript-wont-stop-fingerprinting/)
- - [Blog: nullpt.rs](https://www.nullpt.rs/)
- - [Blog: http2 Fingerprinting](https://www.trickster.dev/post/understanding-http2-fingerprinting/)
- - [One Million Site Tracking Measurements](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
- - [DeepFPD: Browser Fingerprinting Detection via Deep Learning](https://ieeexplore.ieee.org/abstract/document/10431413)
- - [The Devil is in the Details: Detection, Measurement and Lawfulness of Server-Side Tracking on the Web](https://hal.science/hal-04617727v1/document)
- 
+- [Blog: Detecting Privacy Badger](https://adtechmadness.wordpress.com/2020/03/27/detecting-privacy-badgers-canvas-fp-detection/)
+- [Blog: Salesforce TLS Fingerprinting](https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967/)
+- [Pixel Perfect: Fingerprinting Canvas in HTML5](https://hovav.net/ucsd/dist/canvas.pdf)
+- [Dark Knowledge](https://github.com/prescience-data/dark-knowledge) - A curated library of research papers and presentations for counter-detection and web privacy enthusiasts.
+- [Picasso: Lightweight Device Class Fingerprinting (Google Research)](https://research.google/pubs/picasso-lightweight-device-class-fingerprinting-for-web-clients/)
+- [Fingerprinting Evasive Bots](https://arxiv.org/pdf/2406.07647)
+- [Blog: How anti-fingerprinting extensions tend to make fingerprinting easier](https://palant.info/2020/12/10/how-anti-fingerprinting-extensions-tend-to-make-fingerprinting-easier/)
+- [Blog: Detecting Headless Browsers](https://antoinevastel.com/javascript/2020/02/09/detecting-web-bots.html)
+- [Blog: Detecting Puppeteer through JS Execution](https://antoinevastel.com/javascript/2019/06/10/monitor-js-execution.html)
+- [Reddit: Inside reCAPTCHA's development](https://www.reddit.com/r/programming/comments/10755l2/reverse_engineering_tiktoks_vm_obfuscation_part_2/j3lwqbc/?context=3)
+- [WebGPU Fingerprinting Attacks](https://arxiv.org/pdf/2401.04349)
+- [Who Touched My Browser Fingerprint](https://yinzhicao.org/fpmeasurement/imc20.pdf)
+- [Quantifying the Fingerprintability of Browser Extensions](https://securitee.org/files/xhound-oakland17.pdf)
+- [Fingerprinting in Style: Detecting Browser Extensions via Injected Style Sheets](https://www.usenix.org/conference/usenixsecurity21/presentation/laperdrix)
+- [Cookieless Monster](http://consideredharmful.info/papers/Paper%20-%20Hot%20Topics%20in%20Computer%20Security%20-%20Cookieless%20Monster.pdf)
+- [Blog: Browser Finerprinting via CSS](https://fingerprint.com/blog/disabling-javascript-wont-stop-fingerprinting/)
+- [Blog: nullpt.rs](https://www.nullpt.rs/)
+- [Blog: Detecting residential proxy networks](https://rasbora.dev/blog/detecting-residential-proxy-networks)
+- [Blog: pixelmelt.dev](https://blog.pixelmelt.dev/)
+- [Blog: mimic.sbs](https://www.mimic.sbs/)
+- [Blog: yog's blog](https://yoghurtbot.github.io/)
+- [Blog: nullpt.rs](https://nullpt.rs/)
+- [Blog: Antoine Vastel](https://antoinevastel.com/)
+- [Blog: Incolumitas](https://incolumitas.com/)
+- [Blog: Detecting proxies and VPN with latencies](https://web.archive.org/web/20250426052523/https://incolumitas.com/2021/06/07/detecting-proxies-and-vpn-with-latencies/)
+- [Blog: FP.js Audio fingerprinting](https://fingerprint.com/blog/audio-fingerprinting/)
+- [Blog: antibot.blog](https://antibot.blog/)
+- [Blog: JA4+ network fingerprinting](https://blog.foxio.io/ja4+-network-fingerprinting)
+- [Blog: http2 Fingerprinting](https://www.trickster.dev/post/understanding-http2-fingerprinting/)
+- [One Million Site Tracking Measurements](https://www.cs.princeton.edu/~arvindn/publications/OpenWPM_1_million_site_tracking_measurement.pdf)
+- [DeepFPD: Browser Fingerprinting Detection via Deep Learning](https://ieeexplore.ieee.org/abstract/document/10431413)
+- [The Devil is in the Details: Detection, Measurement and Lawfulness of Server-Side Tracking on the Web](https://hal.science/hal-04617727v1/document)
+- [steakenthusiast - AST deobfuscation resources](https://steakenthusiast.github.io/archives/)
+- [Bulldozer thesis](https://github.com/ceres-c/bulldozer/blob/master/thesis.pdf)
+- [Surreptitious Software by Christian Collberg](https://www.amazon.com/dp/0321549252) (ISBN: `0321549252`)
+- [Mouse-Synthesizer](https://github.com/MIMIC-LOGICS/Mouse-Synthesizer) - The most advanced mouse movement synthesizer based on the human hand biometric theory.
+
 ## Fingerprinting Evasion
 
 | Library                                                                                    | Description                                                                   | Language   |
@@ -76,9 +104,11 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [CamouFox](https://github.com/daijro/camoufox)                                             | Gecko Based Anti-Detect Browser                                               | C++        |
 
 ## Other
+
 - [Brave Anti-Fingerprinting Wiki](https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections)
 - [Ungoogled Chromium FP Patches](https://github.com/ungoogled-software/ungoogled-chromium/blob/07e4bdd1da038c7a4423637e6e00ffdbe1695581/patches/extra/bromite/flag-fingerprinting-canvas-image-data-noise.patch#L31)
 - [Fingerprint Guidance](https://w3c.github.io/fingerprinting-guidance/)
-  
+
 ## Contribute
+
 Contributions are welcome. Please follow the general format when creating a pull request.
