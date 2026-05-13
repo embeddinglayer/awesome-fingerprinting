@@ -28,6 +28,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [FingerprintJS BotD](https://github.com/fingerprintjs/BotD)                                     | Bot detection library                                                |
 | [Website Fingerprinting Library](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) | Pytorch-based open-source library for website fingerprinting attacks |
 | [ThumbmarkJS](https://github.com/thumbmarkjs/thumbmarkjs)                                       | Opensource alternative to FingerprintJS                              |
+| [firefox-stealth](https://github.com/feder-cr/firefox-stealth)                                    | 15 C++ patches against mozilla-central (Firefox 150.0.1) that spoof browser fingerprint at the source level. MPL-2.0. |
 
 ## Sites
 
