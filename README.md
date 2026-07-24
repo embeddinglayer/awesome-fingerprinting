@@ -95,6 +95,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [FakeBrowser](https://github.com/kkoooqq/fakebrowser)                                      | Headless Browser Anti-detect                                                  | Javascript |
 | [JS Shelter](https://github.com/polcak/jsrestrictor)                                       | Extension to restrict the information gathered through browser fingerprinting | Javascript |
 | [Privacy Badger](https://github.com/EFForg/privacybadger)                                  | Extension to block basic fingerprinting techniques                            | Javascript |
+| [invisible-playwright](https://github.com/feder-cr/invisible_playwright)                     | Playwright wrapper for a stealth-patched Firefox 150 with anti-fingerprinting in the C++ source. | Python     |
 | [Chameleon](https://github.com/ghostwords/chameleon)                                       | Deprecated: Extension for blocking browser fingerprinting                     | Javascript |
 | [uTLS](https://github.com/refraction-networking/utls)                                      | TLS Impersonation Library                                                     | Golang     |
 | [TLS Client](https://github.com/bogdanfinn/tls-client)                                     | Built on top of uTLS offers a simpler wrapper with more profiles              | Golang     |
