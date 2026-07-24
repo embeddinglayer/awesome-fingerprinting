@@ -102,6 +102,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [Reqwest Impersonate](https://github.com/0x676e67/reqwest-impersonate)                     | TLS Impersonation                                                             | Rust       |
 | [PRIMP](https://github.com/deedy5/primp)                                                   | TLS Impersonation                                                             | Rust       |
 | [CamouFox](https://github.com/daijro/camoufox)                                             | Gecko Based Anti-Detect Browser                                               | C++        |
+| [Spoof Me for Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki) / [Spoof Me for Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/) | Browser extension for inspecting and modifying common browser fingerprint signals, including user agent, language, timezone, screen size, Canvas, and WebGL. | Javascript |
 
 ## Other
 
