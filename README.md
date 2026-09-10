@@ -88,6 +88,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 
 | Library                                                                                    | Description                                                                   | Language   |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ---------- |
+| [AntiBrow](https://antibrow.com) | Kernel-level antidetect browser; applies fingerprints in the C++ layer and exposes a standard Playwright BrowserContext over CDP. | C++ / JS / Python |
 | [FingerprintSuite](https://github.com/apify/fingerprint-suite)                             | Evade browser fingerprinting for headless browsers.                           | Typescript |
 | [Undetected Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)   | Modified selenium thats intended to bypass common headless browser checks     | Python     |
 | [PuppeteerExtra](https://github.com/berstend/puppeteer-extra)                              | Puppeteer extensions to evade common detections                               | Typescript |
