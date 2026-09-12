@@ -88,6 +88,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 
 | Library                                                                                    | Description                                                                   | Language   |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ---------- |
+| [AntiBrow](https://github.com/antibrow/antibrow)                                          | Chromium fork that applies the fingerprint in the engine instead of injecting scripts; returns a standard Playwright context. | Python, Typescript |
 | [FingerprintSuite](https://github.com/apify/fingerprint-suite)                             | Evade browser fingerprinting for headless browsers.                           | Typescript |
 | [Undetected Chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver)   | Modified selenium thats intended to bypass common headless browser checks     | Python     |
 | [PuppeteerExtra](https://github.com/berstend/puppeteer-extra)                              | Puppeteer extensions to evade common detections                               | Typescript |
