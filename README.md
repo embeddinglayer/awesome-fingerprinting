@@ -1,11 +1,13 @@
 # awesome-fingerprinting
 
+
 > **Fingerprinting** is a practice in which websites identify a particular browser (and by extension, a particular user) by collecting and combining distinguishing features of the browser and underlying operating system. - [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Fingerprinting)
 
 ## About
 
 A collection of browser fingerprinting projects, research, and resources. Intended as a way to aggregate research surrounding the subject.
 Please read the [contributions](#contribute) section before opening a pull request.
+
 
 ### Index
 
@@ -33,6 +35,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 
 - [AmIUnique](https://amiunique.org/)
 - [PixelScan](https://pixelscan.net/)
+- [EnvTrace](https://envtrace.net/) - Free pre-login environment checker: browser fingerprint, IP/proxy quality, WebRTC leaks, timezone/language consistency, and automation traces with a health score and scenario-fit guidance
 - [tls.peet.ws](https://tls.peet.ws/)
   - [tls.peet.ws (HTTP/3 API)](https://tls3.peet.ws/api/all) - HTTP/3 version of the peet API
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
