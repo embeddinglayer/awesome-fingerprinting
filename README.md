@@ -1,6 +1,5 @@
 # awesome-fingerprinting
 
-
 > **Fingerprinting** is a practice in which websites identify a particular browser (and by extension, a particular user) by collecting and combining distinguishing features of the browser and underlying operating system. - [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Fingerprinting)
 
 ## About
