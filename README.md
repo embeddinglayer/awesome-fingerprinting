@@ -7,7 +7,6 @@
 A collection of browser fingerprinting projects, research, and resources. Intended as a way to aggregate research surrounding the subject.
 Please read the [contributions](#contribute) section before opening a pull request.
 
-
 ### Index
 
 - [Libraries & Projects](#libraries--projects)
