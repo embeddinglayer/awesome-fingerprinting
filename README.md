@@ -2,6 +2,13 @@
 
 > **Fingerprinting** is a practice in which websites identify a particular browser (and by extension, a particular user) by collecting and combining distinguishing features of the browser and underlying operating system. - [Mozilla](https://developer.mozilla.org/en-US/docs/Glossary/Fingerprinting)
 
+## Sponsors
+<p>
+  <a href="https://synthient.com/?utm_source=anubis">
+    <img src="./sponsors/synthient-banner.webp" alt="Synthient" height="128" />
+  </a>
+</p>
+
 ## About
 
 A collection of browser fingerprinting projects, research, and resources. Intended as a way to aggregate research surrounding the subject.
