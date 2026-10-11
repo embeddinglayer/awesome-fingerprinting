@@ -52,6 +52,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 - [Brave Farbling demo](https://dev-pages.bravesoftware.com/fingerprinting/farbling.html)
 - [Chrome Extension Fingerprinting](https://fpmon.github.io/fingerprinting-monitor/)
 - [SneakerDev Discord](https://discord.gg/sneakerdev)
+- [Bscan.info](https://bscan.info/)
 
 ## Research
 
