@@ -52,6 +52,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 - [Brave Farbling demo](https://dev-pages.bravesoftware.com/fingerprinting/farbling.html)
 - [Chrome Extension Fingerprinting](https://fpmon.github.io/fingerprinting-monitor/)
 - [SneakerDev Discord](https://discord.gg/sneakerdev)
+- [DCChecker](https://deviceschanger.org/browser-test/) - Free browser and network fingerprint checker. Results are shown in the browser.
 
 ## Research
 
