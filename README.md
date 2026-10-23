@@ -111,6 +111,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [Reqwest Impersonate](https://github.com/0x676e67/reqwest-impersonate)                     | TLS Impersonation                                                             | Rust       |
 | [PRIMP](https://github.com/deedy5/primp)                                                   | TLS Impersonation                                                             | Rust       |
 | [CamouFox](https://github.com/daijro/camoufox)                                             | Gecko Based Anti-Detect Browser                                               | C++        |
+| [BotBrowser](https://github.com/botswin/BotBrowser)                                         | Chromium core that loads a signed profile and keeps fingerprint values consistent across host systems | C++        |
 
 ## Other
 
