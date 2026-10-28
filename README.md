@@ -46,6 +46,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
 - [DeviceAndBrowserInfo](https://deviceandbrowserinfo.com/)
 - [BrowserLeaks](https://browserleaks.com/)
+- [ShieldLabs Anonymity Checker](https://demo.shieldlabs.ai/anonymity-checker) - Free check of device identifiers, risk score, VPN, proxy, Tor and browser automation signals for the current visit.
 - [Browserize (privacy check)](https://privacycheck.sec.lrz.de/)
 - [bot-detector](https://bot-detector.rebrowser.net/) - demo of CDP leaks
 - [Cloudflare connection tool (Enterprise only)](https://cfdata.lol/tools/connection/) - shows CF management score (Enterprise only)
