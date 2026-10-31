@@ -45,6 +45,7 @@ Please read the [contributions](#contribute) section before opening a pull req
   - [tls.peet.ws (HTTP/3 API)](https://tls3.peet.ws/api/all) - HTTP/3 version of the peet API
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/)
 - [DeviceAndBrowserInfo](https://deviceandbrowserinfo.com/)
+- [FingerPrint Checker](https://fpchecker.com/browser-fingerprint-test) - Free browser fingerprint test showing the visitor ID a server assigns and whether it survives a private window, plus WebRTC leak, IP lookup and incognito checks. Client SDKs are open source ([GitHub](https://github.com/AndrewYukon/FingerPrintChecker))
 - [BrowserLeaks](https://browserleaks.com/)
 - [Browserize (privacy check)](https://privacycheck.sec.lrz.de/)
 - [bot-detector](https://bot-detector.rebrowser.net/) - demo of CDP leaks
