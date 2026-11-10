@@ -39,6 +39,8 @@ Please read the [contributions](#contribute) section before opening a pull req
 
 ## Sites
 
+- [FCaptcha demo](https://webdecoy.com/product/fcaptcha-demo/) - Interactive demo of an open-source, self-hosted CAPTCHA that combines browser automation and behavioral signals with proof of work to detect AI agents operating browsers
+- [WebDecoy JA4 decoder](https://webdecoy.com/ja4-fingerprint-format/) - Browser-based decoder for the readable JA4 TLS client fingerprint prefix, with field definitions and public examples
 - [AmIUnique](https://amiunique.org/)
 - [PixelScan](https://pixelscan.net/)
 - [EnvTrace](https://envtrace.net/) - Free pre-login environment checker: browser fingerprint, IP/proxy quality, WebRTC leaks, timezone/language consistency, and automation traces with a health score and scenario-fit guidance
