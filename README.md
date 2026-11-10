@@ -35,6 +35,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [FingerprintJS BotD](https://github.com/fingerprintjs/BotD)                                     | Bot detection library                                                |
 | [Website Fingerprinting Library](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) | Pytorch-based open-source library for website fingerprinting attacks |
 | [ThumbmarkJS](https://github.com/thumbmarkjs/thumbmarkjs)                                       | Opensource alternative to FingerprintJS                              |
+| [OpenFingerprint](https://github.com/Mokto/openfingerprint)                                     | MIT browser-signal SDK, plus an optional self-hosted API for disposable-email, Tor and cloud-IP checks |
 
 ## Sites
 
