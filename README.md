@@ -115,6 +115,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [PRIMP](https://github.com/deedy5/primp)                                                   | TLS Impersonation                                                             | Rust       |
 | [CamouFox](https://github.com/daijro/camoufox)                                             | Gecko Based Anti-Detect Browser                                               | C++        |
 | [Clearcote](https://github.com/clearcotelabs/clearcote-browser)                            | Chromium Based Anti-Detect Browser                                            | C++        |
+| [Browsersmith](https://github.com/jverneuer/browsersmith)                                  | Browser-identical TLS/HTTP/2 fingerprint impersonation stack for Node.js      | Typescript |
 
 ## Other
 
