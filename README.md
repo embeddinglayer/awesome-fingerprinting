@@ -36,6 +36,7 @@ Please read the [contributions](#contribute) section before opening a pull req
 | [Website Fingerprinting Library](https://github.com/Xinhao-Deng/Website-Fingerprinting-Library) | Pytorch-based open-source library for website fingerprinting attacks |
 | [ThumbmarkJS](https://github.com/thumbmarkjs/thumbmarkjs)                                       | Opensource alternative to FingerprintJS                              |
 | [OpenFingerprint](https://github.com/Mokto/openfingerprint)                                     | MIT browser-signal SDK, plus an optional self-hosted API for disposable-email, Tor and cloud-IP checks |
+| [leak-check](https://github.com/MyIPScan/leak-check)                                            | Tiny MIT browser library that detects local IP addresses exposed via WebRTC ICE candidates |
 
 ## Sites
 
